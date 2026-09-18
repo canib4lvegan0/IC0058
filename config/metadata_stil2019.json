@@ -1,0 +1,159 @@
+{
+  "1_ASSIN-2.pdf": {
+    "titulo": "Organizing the ASSIN 2 Shared Task",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/1_ASSIN-2.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/1_ASSIN-2.pdf",
+    "autores": [
+      {
+        "nome": "Livy Real",
+        "afiliacao": "B2W Digital/Grupo de Linguıstica Computacional – University of Sa˜o Paulo",
+        "orcid": null
+      },
+      {
+        "nome": "Erick Fonseca",
+        "afiliacao": "Instituto de Telecomunicacço˜es, Lisboa, Portugal",
+        "orcid": null
+      },
+      {
+        "nome": "Hugo Gonçcalo Oliveira",
+        "afiliacao": "CISUC, University of Coimbra, Portugal",
+        "orcid": "https://orcid.org/0000-0002-5779-8645"
+      }
+    ],
+    "data_publicacao": "26/03/2020",
+    "keywords": [
+      "Shared Task Semantic Textual Similarity Recognizing",
+      "Textual Entailment Natural Language Inference Portuguese"
+    ]
+  },
+  "2_ASAPPpy.pdf": {
+    "titulo": "ASAPPpy: a Python Framework for Portuguese STS",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/2_ASAPPpy.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/2_ASAPPpy.pdf",
+    "autores": [
+      {
+        "nome": "Jose Santos",
+        "afiliacao": "CISUC, University of Coimbra, Portugal / DEI, University of Coimbra, Portugal",
+        "orcid": "https://orcid.org/0000-0001-9207-9761"
+      },
+      {
+        "nome": "Ana Alves",
+        "afiliacao": "CISUC, University of Coimbra, Portugal / ISEC, Polytechnic Institute of Coimbra, Portugal",
+        "orcid": "https://orcid.org/0000-0002-3692-338X"
+      },
+      {
+        "nome": "Hugo Gonçcalo Oliveira",
+        "afiliacao": "CISUC, University of Coimbra, Portugal / DEI, University of Coimbra, Portugal",
+        "orcid": "https://orcid.org/0000-0002-5779-8645"
+      }
+    ],
+    "data_publicacao": "26/03/2020",
+    "keywords": [
+      "Semantic Textual Similarity Natural Language Processing",
+      "Semantic Relations Word Embeddings Supervised Machine Learning."
+    ]
+  },
+  "3_DLB.pdf": {
+    "titulo": "Multilingual Transformer Ensembles for Portuguese Natural Language Tasks",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/3_DLB.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/3_DLB.pdf",
+    "autores": [
+      {
+        "nome": "Ruan Chaves Rodrigues",
+        "afiliacao": "Institute of Informatics, Federal University of Goias, Brazil",
+        "orcid": null
+      },
+      {
+        "nome": "Jessica Rodrigues da Silva",
+        "afiliacao": "Department of Computer Science, Federal University of Sa˜o Carlos, Brazil",
+        "orcid": null
+      },
+      {
+        "nome": "Pedro Vitor Quinta de Castro",
+        "afiliacao": "Institute of Informatics, Federal University of Goias, Brazil",
+        "orcid": null
+      },
+      {
+        "nome": "Nadia Felix Felipe da Silva",
+        "afiliacao": "Institute of Informatics, Federal University of Goias, Brazil",
+        "orcid": null
+      }
+    ],
+    "data_publicacao": "26/03/2020",
+    "keywords": [
+      "Semantic textual similarity Textual entailment Trans-",
+      "former architecture"
+    ]
+  },
+  "4_IPR.pdf": {
+    "titulo": "IPR: The Semantic Textual Similarity and Recognizing Textual Entailment systems",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/4_IPR.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/4_IPR.pdf",
+    "autores": [
+      {
+        "nome": "Rui Rodrigues",
+        "afiliacao": "Centro de Matematica e Aplicaçco˜es (CMA), FCT, UNL",
+        "orcid": null
+      },
+      {
+        "nome": "Paula Couto",
+        "afiliacao": "Centro de Matematica e Aplicaçco˜es (CMA), FCT, UNL",
+        "orcid": null
+      }
+    ],
+    "data_publicacao": "26/03/2020",
+    "keywords": []
+  },
+  "5_NILC.pdf": {
+    "titulo": "NILC at ASSIN 2: Exploring Multilingual",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/5_NILC.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/5_NILC.pdf",
+    "autores": [],
+    "data_publicacao": "26/03/2020",
+    "keywords": [
+      "Natural Language Inference BERT Multilingual Training",
+      "Cross-lingual Training"
+    ]
+  },
+  "6_PUCPR.pdf": {
+    "titulo": "Incorporating multiple feature groups to a Siamese Neural Network for Semantic Textual Similarity task in Portuguese texts",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/6_PUCPR.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/6_PUCPR.pdf",
+    "autores": [
+      {
+        "nome": "João Vitor Andrioli de Souza",
+        "afiliacao": "",
+        "orcid": null
+      },
+      {
+        "nome": "Lucas Emanuel Silva e Oliveira",
+        "afiliacao": "",
+        "orcid": null
+      },
+      {
+        "nome": "Yohan Bonescki Gumiel",
+        "afiliacao": "",
+        "orcid": null
+      }
+    ],
+    "data_publicacao": "26/03/2020",
+    "keywords": []
+  },
+  "7_Stilingue.pdf": {
+    "titulo": "Wide And Deep Transformers Applied to",
+    "informacoes_url": "https://ceur-ws.org/Vol-2583/7_Stilingue.pdf",
+    "idioma": "Inglês",
+    "storage_key": "files/7_Stilingue.pdf",
+    "autores": [],
+    "data_publicacao": "26/03/2020",
+    "keywords": [
+      "SemanticRelatedness,TextualEntailment,NaturalLanguage Processing"
+    ]
+  }
+}
